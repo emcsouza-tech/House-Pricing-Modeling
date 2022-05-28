@@ -1,6 +1,7 @@
 <h2>Metadata for kc_house_data.csv</h2>
 
 <h3><b>Variables</b></h3>
+<body>
 <p>
 Id - Unique ID for each home sold
 date - Date of the home sale
@@ -22,4 +23,5 @@ lat -  Lattitude
 long - Longitude
 sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+<body>
 </p>
