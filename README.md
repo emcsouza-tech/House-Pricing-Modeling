@@ -3,7 +3,7 @@ Machine learning models for predicting the prices of houses in the given dataset
 
 Dataset from https://www.kaggle.com/datasets/shivachandel/kc-house-data
 
-Description as follows:
+**Description as follows:**
 
 Online property companies offer valuations of houses using machine learning techniques. The aim of this report is to predict the house sales in King County, Washington State, USA using Multiple Linear Regression (MLR). The dataset consisted of historic data of houses sold between May 2014 to May 2015.
 We will predict the sales of houses in King County with an accuracy of at least 75-80% and understand which factors are responsible for higher property value - $650K and above.”
