@@ -1,6 +1,6 @@
-**###Metadata for kc_house_data.csv###**
+<h>Metadata for kc_house_data.csv</h>
 
-**#Variables#**
+<b>Variables</b>
 
 Id - Unique ID for each home sold
 date - Date of the home sale
