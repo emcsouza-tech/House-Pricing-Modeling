@@ -4,6 +4,7 @@
 <body>
 <p>
 Id - Unique ID for each home sold
+
 date - Date of the home sale
 price - Price of each home sold
 bedrooms - Number of bedrooms
